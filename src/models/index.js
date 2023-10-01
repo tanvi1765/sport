@@ -1,0 +1,12 @@
+module.exports.user = require("./user.model");
+module.exports.contect_us = require("./contect_us.model");
+module.exports.sportCtegory = require("./sportCtegory.model");
+module.exports.sportsgallery = require("./sportsgallery.model");
+module.exports.founder = require("./founders.model");
+module.exports.news = require("./news.model");
+module.exports.result = require("./result.model");
+module.exports.tournament = require("./tournament.model");
+module.exports.player = require("./player.model");
+module.exports.team = require("./team.model");
+module.exports.coach = require("./coach.model");
+module.exports.token = require("./token.model");
